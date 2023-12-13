@@ -2,10 +2,10 @@
 
 ## blob - raw=true
 
-[![Banner](https://github.com/ricaun/test-assets/blob/main/Banner.png?raw=true)](https://github.com/ricaun-io/ricaun.DI)
+[![Banner](https://github.com/ricaun/test-assets/blob/main/Banner.png?raw=true)](https://github.com/ricaun/test-assets)
 
 ```
-[![Banner](https://github.com/ricaun/test-assets/blob/main/Banner.png?raw=true)](https://github.com/ricaun-io/ricaun.DI)
+[![Banner](https://github.com/ricaun/test-assets/blob/main/Banner.png?raw=true)](https://github.com/ricaun/test-assets)
 ```
 
 ## githubusercontent
