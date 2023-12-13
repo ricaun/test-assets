@@ -1,7 +1,7 @@
 # test-assets
 
-![Banner](https://github.com/ricaun/test-assets/blob/main/Banner.png)
+![Banner](https://raw.githubusercontent.com/ricaun/test-assets/main/Banner.png)
 
 ```
-![Banner](https://github.com/ricaun/test-assets/blob/main/Banner.png)
+![Banner](https://raw.githubusercontent.com/ricaun/test-assets/main/Banner.png)
 ```
